@@ -79,4 +79,4 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 Hal yang diatas adalah cara mendownload git dan langkah-langkah menggunakan git
 Sekian hanya ini yang dapat saya sampeikan, semoga kalian dapat memahaminya
 
-##TERIMAKASIH
+## TERIMAKASIH
