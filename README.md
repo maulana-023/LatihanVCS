@@ -21,7 +21,7 @@ Kelas   : TI.20. A.1
     > git config --global user.name "Masukkan Nama Anda disini"<rb>
     > git config --global user.email "Masukkan Email Anda disini"<rb>
 
-    ![Picture-nameandemail](pict/git-name and email.PNG)
+    ![Picture - Add User](pict/git-name and email.PNG)
 
 * Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :<rb>
     > git config --global user.name<rb>
