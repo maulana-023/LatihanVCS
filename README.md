@@ -64,3 +64,8 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 > git push
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
+
+Hal yang diatas adalah cara mendownload git dan langkah-langkah menggunakan git
+Sekian hanya ini yang dapat saya sampeikan, semoga kalian dapat memahaminya
+
+##TERIMAKASIH
