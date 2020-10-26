@@ -21,6 +21,8 @@ Kelas   : TI.20. A.1
     > git config --global user.name "Masukkan Nama Anda disini"<rb>
     > git config --global user.email "Masukkan Email Anda disini"<rb>
 
+    ![Picture-nameandemail](pict/git-name and email.PNG)
+
 * Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :<rb>
     > git config --global user.name<rb>
     > git config --global user.email<rb>
@@ -44,7 +46,7 @@ Langkah pertama kita harus menyalin *link URL* git kita di Github, dengan cara t
 * Setelah *Link URL* git kita ter*copy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan men*download* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih ***Git Bash Here***.
 
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
-> git clone [URL]
+    > git clone [URL]
 Pada contohnya, saya akan memasukkan *git clone https://github.com/maulana-023/LatihanVCS.git*
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
@@ -55,13 +57,13 @@ Pada contohnya, saya akan memasukkan *git clone https://github.com/maulana-023/L
 Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File -> Save**
 
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
-> git add .
+    > git add .
 
 * Setelah selesai melakukan *git add .* langkah berikutnya kita akan melakukan **commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
-> git commit "Update README.md"
+    > git commit "Update README.md"
 
 * Git *commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, *Git Push* berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
-> git push
+    > git push
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
 
