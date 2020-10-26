@@ -21,13 +21,13 @@ Kelas   : TI.20. A.1
     > git config --global user.name "Masukkan Nama Anda disini"<rb>
     > git config --global user.email "Masukkan Email Anda disini"<rb>
 
-Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :<rb>
     > git config --global user.name<rb>
     > git config --global user.email<rb>
 * Buat akun di [GitHub](https://github.com) , seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar. 
 
-* Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat *Repository*
-**Penjelasan** : 
+* Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat *Repository*<br>
+**Penjelasan** : <br>
     > * Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository *LatihanVCS*)
     > * Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
     > * Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
