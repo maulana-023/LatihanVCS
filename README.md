@@ -16,7 +16,6 @@ Kelas   : TI.20. A.1
 * Setelah installasi selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
     > git --version
 
-
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan *syntax* berikut :
     > git config --global user.name "Masukkan Nama Anda disini"<rb>
     > git config --global user.email "Masukkan Email Anda disini"<rb>
@@ -60,6 +59,8 @@ Pada contohnya, saya akan memasukkan *git clone https://github.com/maulana-023/L
 
 * Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [Click Here](https://guides.github.com/features/mastering-markdown/)
 
+    ![Picture - New](pict/git-viewVSC.png)
+
 Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File -> Save**
 
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
@@ -72,6 +73,8 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
     > git push
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
+
+    ![Picture - New](pict/git-github.png)
 
 Hal yang diatas adalah cara mendownload git dan langkah-langkah menggunakan git
 Sekian hanya ini yang dapat saya sampeikan, semoga kalian dapat memahaminya
